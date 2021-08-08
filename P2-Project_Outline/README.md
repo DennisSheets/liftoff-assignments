@@ -19,15 +19,15 @@ An Admin will be able to login to add more admins, edit the content on each page
 
 # Technologies
 - Java
-- Javascript with React
+- Javascript with Angular
 - Bootstrap
 - Spring Boot
-- MySQL with React
+- MySQL with Angular
 - Restful API
 
 # What the Team Will Have to Learn
-- [ ] React: Our frontend team members would like to get away from Thymeleaf and start using React.
-- [ ] Using React, our backend team will need to learn how to connect React with Java and what that means to MySQL.
+- [ ] Angular: Our frontend team would like to get away from Thymeleaf and expand on our use of Angular.
+- [ ] Using Angular, our backend team will need to learn how to connect Angular with Java and what that means to MySQL.
 - [ ] We plan to host this site, so we need to determine an appropriate host, how to generate the appropriate files to upload to the host, and how to configure the host.
 - [ ] Google Maps API (Google Maps based on a search term, and proximity from a zip code
 - [ ] Google API (language options)
