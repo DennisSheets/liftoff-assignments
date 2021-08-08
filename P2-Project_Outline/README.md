@@ -3,7 +3,7 @@
 # Overview
 The intent of this project is to provide a quasi prioritized to-do list for an emigrant who just arrived in the US. A new emigrant is likely a bit overwhelmed with everything that they need to do, should do, and could do. With a seemingly endless to-do list and so many complex resources available, the primary goal of this app is to provide an "aha moment" starting point with links to valuable and appropriate resources.
 
-A users experience starts with a welcome page where they will set a zip code, their preferred language, see a welcome message, and an emigration related news feed. From here, they can drill down on the "Kneed to Knows" like "get an I-94#" and "Get a Work Permit". Each "Need to Know" link will take them to apage that has brief description, a link of relevant resources and if appropriate, Google Map of relevant locations with 250 miles".
+A users experience starts with a welcome page where they will set a zip code, their preferred language, see a welcome message, and an emigration related news feed. From here, they can drill down on the "Kneed to Knows" like "get an I-94#" and "Get a Work Permit". Each "Need to Know" link will take them to a page that has brief description, a link of relevant resources, and if appropriate a Google Map of relevant locations with 250 miles".
 
 An Admin will be able to login to add more admins, edit the content on each page and add new "Need to Knows".
 
