@@ -19,8 +19,9 @@ An Admin will be able to login to add more admins, edit the content on each page
 
 # Technologies
 - Java
-- React
-- MySQL
+- Javascript with React
+- MySQL with React
+- Restful API
 
 # What I'll Have to Learn
 - [ ] React: Our frontend team members would like to get away from Thymeleaf and start using React.
