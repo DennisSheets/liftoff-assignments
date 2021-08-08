@@ -25,9 +25,11 @@ An Admin will be able to login to add more admins, edit the content on each page
 
 # What I'll Have to Learn
 - [ ] React: Our frontend team members would like to get away from Thymeleaf and start using React.
-- [ ] Using React, we need to learn how to connect React with Java and what that means to MySQL.
+- [ ] Using React, our backend team will need to learn how to connect React with Java and what that means to MySQL.
 - [ ] We plan to host this site, so we need to determine an appropriate host, how to generate the appropriate files to upload to the host, and how to configure the host.
-- [ ] We need to learn the fundamentals of utilizing a RESTful API in Java, specifically the Google Maps API and an undetermined news source API.
+- [ ] Google Maps API (Google Maps based on a search term, and proximity from a zip code
+- [ ] Google API (language options)
+- [ ] RSS Feed Source unknown API
 
 # Project Tracker
 https://trello.com/b/scrGqFqr/liftoffaug2021b
