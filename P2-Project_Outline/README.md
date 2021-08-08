@@ -20,6 +20,8 @@ An Admin will be able to login to add more admins, edit the content on each page
 # Technologies
 - Java
 - Javascript with React
+- Bootstrap
+- Spring Boot
 - MySQL with React
 - Restful API
 
