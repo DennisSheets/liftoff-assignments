@@ -25,7 +25,7 @@ An Admin will be able to login to add more admins, edit the content on each page
 - MySQL with React
 - Restful API
 
-# What I'll Have to Learn
+# What the Team Will Have to Learn
 - [ ] React: Our frontend team members would like to get away from Thymeleaf and start using React.
 - [ ] Using React, our backend team will need to learn how to connect React with Java and what that means to MySQL.
 - [ ] We plan to host this site, so we need to determine an appropriate host, how to generate the appropriate files to upload to the host, and how to configure the host.
