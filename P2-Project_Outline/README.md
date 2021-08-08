@@ -19,14 +19,15 @@ Admins will be able create additional Logins, update their profile, edit site co
 
 
 # Technologies
-Java
-React
-MySQL
+- Java
+- React
+- MySQL
 
 # What I'll Have to Learn
-Our frontend team members would like to get away from Thymeleaf and start using React. Not only will some of us need to learn React, but we will also need to learn how to connect React with Java and what that means to MySQL.
-We plan to host this site, so we need to determine an appropriate host, how to generate the appropriate files to upload to the host, and how to configure the host.
-We need to learn the fundamentals of utilizing a RESTful API in Java, specifically the Google Maps API and an undetermined news source.
+- [ ] Our frontend team members would like to get away from Thymeleaf and start using React. Not only will some of us need to learn React.
+- [ ] We will also need to learn how to connect React with Java and what that means to MySQL.
+- [ ] We plan to host this site, so we need to determine an appropriate host, how to generate the appropriate files to upload to the host, and how to configure the host.
+- [ ] We need to learn the fundamentals of utilizing a RESTful API in Java, specifically the Google Maps API and an undetermined news source.
 
 # Project Tracker
 https://trello.com/b/scrGqFqr/liftoffaug2021b
