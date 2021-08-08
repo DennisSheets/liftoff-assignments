@@ -8,7 +8,7 @@ A user start on a welcome page where they will tell us what zip code they want t
 An Admin will be able to login to add more admins, edit the content on each page and add new "Need to Knows".
 
 # Features
-#### User Login:
+User Login:
 
 Admins will be able create additional Logins, update their profile, edit site content, and add new "Need to Knows".
 
