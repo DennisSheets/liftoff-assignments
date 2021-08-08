@@ -8,12 +8,18 @@ A user start on a welcome page where they will tell us what zip code they want t
 An Admin will be able to login to add more admins, edit the content on each page and add new "Need to Knows".
 
 ## Features
-### User Login: Admins will be able create additional Logins, update their profile, edit site content, and add new "Need to Knows".
-### RSS Feed: The landing page will have a News feed with relevant update news regarding emigration.
-### Add: Admins will have the ability to add a new "Need to Know", which includes a title, description, specific links regarding this topic, and any values needed for the Google API.
-### CMS Edit: Admins will have the ability to edit the landing page, about us, and all "need to knows".
-### Google Maps API: If appropriate, a "Need to Know" page will include a Google Map
-### Google Language API:  On the landing page, a user will be able to set the language for the site.
+### User Login: 
+Admins will be able create additional Logins, update their profile, edit site content, and add new "Need to Knows".
+### RSS Feed: 
+The landing page will have a News feed with relevant update news regarding emigration.
+### Add: 
+Admins will have the ability to add a new "Need to Know", which includes a title, description, specific links regarding this topic, and any values needed for the Google API.
+### CMS Edit: 
+Admins will have the ability to edit the landing page, about us, and all "need to knows".
+### Google Maps API: 
+If appropriate, a "Need to Know" page will include a Google Map
+### Google Language API:  
+On the landing page, a user will be able to set the language for the site.
 
 
 ### Technologies
