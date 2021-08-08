@@ -9,7 +9,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 The intent of this project is to provide a quasi prioritized to-do list for an emigrant who just arrived in the US. A new emigrant is likely a bit overwhelmed with everything that they need to do, should do, and could do. With a seemingly endless to-do list and so many complex resources available, the primary goal of this app is to provide an "aha moment" starting point with links to valuable and appropriate resources.
 
-A user will hit a landing page where they will tell us what zip code, they want this experience based on and what their preferred language is. From here, they will see a list of "kneed to knows" like "get an I-94#" and "Get a Work Permit". They will click on a selection which will take them to a page that has brief description, a link of relevant resources and if appropriate, Google Map of relevant locations with 250 miles".
+A user start on a welcome page where they will tell us what zip code they want this experience based on,what their preferred language is, and an emigration related news feed. From here, they will see a list of "Kneed to Knows" like "get an I-94#" and "Get a Work Permit". They will click on a selection which will take them to a page that has brief description, a link of relevant resources and if appropriate, Google Map of relevant locations with 250 miles".
 
 An Admin will be able to login to add more admins, edit the content on each page and add new "Need to Knows".
 
