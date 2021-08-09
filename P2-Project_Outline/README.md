@@ -5,7 +5,7 @@ The intent of this project is to provide a quasi prioritized to-do list for an e
 
 A users experience starts with a welcome page where they will set a zip code, their preferred language, see a welcome message, and an emigration related news feed. From here, they can drill down on the "Need to Knows" like "get an I-94#" and "Get a Work Permit". Each "Need to Know" link will take them to a page that has brief description, a link of relevant resources, and if appropriate a Google Map of relevant locations with 250 miles".
 
-An Admin will be able to login to add more admins, edit the content on each page and add new "Need to Knows".
+An Admin will be able to login to add more admins, edit the content on each page, and add new "Need to Knows".
 
 # Features
 - User Login: Admins will be able create additional Logins, update their profile, edit site content, and add new "Need to Knows".
