@@ -8,7 +8,7 @@ A users experience starts with a welcome page where they will set a zip code, th
 An Admin will be able to login to add more admins, edit the content on each page, and add new "Need to Knows".
 
 # Features
-- User Login: Admins will be able create additional Logins, update their profile, edit site content, and add new "Need to Knows".
+- User Login: Admins will be able to create additional Logins, update their profile, edit site content, and add new "Need to Knows".
 
 - RSS Feed: The landing page will have a News feed with relevant update news regarding emigration.
 - Add: Admins will have the ability to add a new "Need to Know", which includes a title, description, specific links regarding this topic, and any values needed for the Google API.
